@@ -24,11 +24,13 @@ global UI state manage be redux-toolkit, split global state on slices
 styling: Tailwindcss, responsive design (mobile first)
 
 This project is build with:
-React
-TypeScript
-Tailwindcss
-Vite
+- React
+- TypeScript
+- Tailwindcss
+- Vite
 
 React third-party packeges:
-React Router
-React Redux
+- React Router
+- React Redux
+
+Developed using advanced React techniques from "The Ultimate ReactCourse: React, Redux & More" by Jonas Schmedtmann.
